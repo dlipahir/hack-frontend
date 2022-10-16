@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.ac4de991.css",
-    "main.js": "/static/js/main.fe407fa6.js",
-    "index.html": "/index.html",
-    "main.ac4de991.css.map": "/static/css/main.ac4de991.css.map",
-    "main.fe407fa6.js.map": "/static/js/main.fe407fa6.js.map"
+    "main.css": "/farmer/static/css/main.ac4de991.css",
+    "main.js": "/farmer/static/js/main.fe407fa6.js",
+    "index.html": "/farmer/index.html",
+    "main.ac4de991.css.map": "/farmer/static/css/main.ac4de991.css.map",
+    "main.fe407fa6.js.map": "/farmer/static/js/main.fe407fa6.js.map"
   },
   "entrypoints": [
     "static/css/main.ac4de991.css",
